@@ -32,7 +32,7 @@
             lv5: "Select lv5",
           },
           language: "th",
-          jsonPath: "",
+          jsonPath: "../../data/country/",
           zipCodeField: ".zipcode",
           onInit: null,
           onChange: null,
