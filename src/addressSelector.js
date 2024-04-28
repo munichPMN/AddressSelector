@@ -32,7 +32,7 @@
             lv5: "Select lv5",
           },
           language: "th",
-          jsonPath: "../../data/country/",
+          jsonPath: "https://cdn.jsdelivr.net/gh/munichPMN/AddressSelector/data/country/",
           zipCodeField: ".zipcode",
           onInit: null,
           onChange: null,
@@ -189,4 +189,3 @@
       });
     };
   })(jQuery);
-  
